@@ -87,7 +87,6 @@ Edit
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Last Commit](https://img.shields.io/github/last-commit/Soham-Banerjee-web/Logistic_Regression)
-![Repo Size](https://img.shields.io/github/repo-size/Soham-Banerjee-web/Logistic_Regression)
 ![Issues](https://img.shields.io/github/issues/Soham-Banerjee-web/Logistic_Regression)
 
 ---
