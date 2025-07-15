@@ -21,25 +21,25 @@ Logistic Regression is a fundamental algorithm used for solving binary classific
 ## 🚀 Quick Start
 
 1. **Clone the repository**
-```bash
+
 git clone https://github.com/Soham-Banerjee-web/Logistic_Regression.git
 cd Logistic_Regression
 Create virtual environment (optional)
 
-```bash
+
 Copy
 Edit
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate (Windows)
 Install dependencies
 
-```bash
+
 Copy
 Edit
 pip install -r requirements.txt
 Run the Jupyter Notebooks
 
-bash
+
 Copy
 Edit
 jupyter notebook
@@ -74,7 +74,7 @@ matplotlib
 
 Install them with:
 
-bash
+
 Copy
 Edit
 pip install scikit-learn pandas numpy seaborn matplotlib
