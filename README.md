@@ -26,14 +26,14 @@ git clone https://github.com/Soham-Banerjee-web/Logistic_Regression.git
 cd Logistic_Regression
 Create virtual environment (optional)
 
-bash
+```bash
 Copy
 Edit
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate (Windows)
 Install dependencies
 
-bash
+```bash
 Copy
 Edit
 pip install -r requirements.txt
