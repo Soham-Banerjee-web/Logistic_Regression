@@ -93,12 +93,3 @@ This project is licensed under the [MIT License](LICENSE).
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Last Commit](https://img.shields.io/github/last-commit/Soham-Banerjee-web/Logistic_Regression)
 ![Issues](https://img.shields.io/github/issues/Soham-Banerjee-web/Logistic_Regression)
-
----
-
-Let me know if you want:
-- A version with Colab setup
-- The `requirements.txt` file content
-- Project thumbnail image and badge links
-
-I'll be happy to help.
