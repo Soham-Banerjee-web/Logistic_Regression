@@ -1,4 +1,4 @@
-```markdown
+markdown
 # 📊 Logistic Regression Classifier
 
 A simple and effective machine learning project that uses **Logistic Regression** for binary classification problems. This project demonstrates model training, evaluation, and visualization using real-world datasets.
