@@ -1,3 +1,4 @@
+```markdown
 # 📊 Logistic Regression Classifier
 
 A simple and effective machine learning project that uses **Logistic Regression** for binary classification problems. This project demonstrates model training, evaluation, and visualization using real-world datasets.
@@ -18,72 +19,76 @@ Logistic Regression is a fundamental algorithm used for solving binary classific
 - Evaluation with Accuracy, Precision, Recall, and F1-score
 - Clean and reusable code with visual insights
 
+---
+
 ## 🚀 Quick Start
 
 1. **Clone the repository**
-
+```bash
 git clone https://github.com/Soham-Banerjee-web/Logistic_Regression.git
-cd Logistic_Regression
-Create virtual environment (optional)
+cd logistic-regression
+````
 
+2. **Create virtual environment** (optional)
 
-Copy
-Edit
+```bash
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate (Windows)
-Install dependencies
+```
 
+3. **Install dependencies**
 
-Copy
-Edit
+```bash
 pip install -r requirements.txt
-Run the Jupyter Notebooks
+```
 
+4. **Run the Jupyter Notebooks**
 
-Copy
-Edit
+```bash
 jupyter notebook
-🧪 Datasets Used
-Iris Dataset (sklearn.datasets.load_iris)
+```
 
-Breast Cancer Dataset (sklearn.datasets.load_breast_cancer)
+---
 
-UCI Heart Disease Dataset (Kaggle Link)
+## 🧪 Datasets Used
 
-📊 Model Evaluation Metrics
-Confusion Matrix
+* Iris Dataset (`sklearn.datasets.load_iris`)
+* Breast Cancer Dataset (`sklearn.datasets.load_breast_cancer`)
+* UCI Heart Disease Dataset ([Kaggle Link](https://www.kaggle.com/datasets/ronitf/heart-disease-uci))
 
-Accuracy
+---
 
-Precision, Recall, F1-score
+## 📊 Model Evaluation Metrics
 
-ROC Curve & AUC
+* Confusion Matrix
+* Accuracy
+* Precision, Recall, F1-score
+* ROC Curve & AUC
 
-✅ Requirements
-Python 3.7+
+---
 
-scikit-learn
+## ✅ Requirements
 
-pandas
-
-numpy
-
-seaborn
-
-matplotlib
+* Python 3.7+
+* scikit-learn
+* pandas
+* numpy
+* seaborn
+* matplotlib
 
 Install them with:
 
-
-Copy
-Edit
+```bash
 pip install scikit-learn pandas numpy seaborn matplotlib
-📜 License
-This project is licensed under the MIT License.
+```
 
-yaml
-Copy
-Edit
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Last Commit](https://img.shields.io/github/last-commit/Soham-Banerjee-web/Logistic_Regression)
