@@ -26,7 +26,7 @@ Logistic Regression is a fundamental algorithm used for solving binary classific
 1. **Clone the repository**
 ```bash
 git clone https://github.com/Soham-Banerjee-web/Logistic_Regression.git
-cd logistic-regression
+cd Logistic_Regression
 ````
 
 2. **Create virtual environment** (optional)
